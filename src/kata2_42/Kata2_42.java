@@ -20,5 +20,4 @@ public class Kata2_42 {
             System.out.println("Key: " + key + "==>" + histogr.get(key));
         } 
     }
-    
 }
