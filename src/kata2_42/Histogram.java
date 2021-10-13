@@ -19,5 +19,4 @@ public class Histogram {
         }
         return histogram;
     }
-    
 }
